@@ -17,4 +17,4 @@ if __name__=="__main__":
 
 **Демонстрация работы алгоритма:**
 
-![](/images/ezgif.com-video-to-gif.gif)
+![](/images/Screen Recording 2020-09-05 at 19.32.22.gif)
