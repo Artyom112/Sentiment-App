@@ -1,7 +1,7 @@
 #%%
 #Загружаем и обрабатываем исзодные данные
-file_obj = open('/Users/artyomkholodkov/Downloads/products_sentiment_train.tsv')
-test_file_obj = open('/Users/artyomkholodkov/Downloads/products_sentiment_test.tsv')
+file_obj = open('products_sentiment_train.tsv')
+test_file_obj = open('products_sentiment_test.tsv')
 
 
 def generate_text_and_targets(file_obj):
