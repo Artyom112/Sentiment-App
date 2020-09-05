@@ -17,4 +17,4 @@ if __name__=="__main__":
 
 **Демонстрация работы алгоритма:**
 
-![](/images/Screen Recording 2020-09-05 at 19.32.22.gif)
+![](/images/gif_image.gif)
