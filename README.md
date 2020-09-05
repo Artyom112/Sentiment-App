@@ -16,4 +16,4 @@ if __name__=="__main__":
 ![Image of Bert architecture](http://jalammar.github.io/images/bert-output-vector.png)
 
 **Демонстрация работы алгоритма:**
-![](/Desktop/GIT/ezgif.com-video-to-gif.gif)
+![](/images/ezgif.com-video-to-gif.gif)
