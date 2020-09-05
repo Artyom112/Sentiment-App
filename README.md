@@ -12,5 +12,5 @@ if __name__=="__main__":
     app.run(port=5001, debug=True)
 ```
 
-## Архитектура BERT:
+**Архитектура BERT**:
 ![Image of Bert architecture](http://jalammar.github.io/images/bert-output-vector.png)
