@@ -15,6 +15,8 @@ if __name__=="__main__":
     app.run(port=5001, debug=True)
 ```
 
+Затем нажмите на появившуюся ссылку в консоли, это откроет сайт в браузере на локальном сервере.
+
 **Архитектура BERT:**
 ![Image of Bert architecture](http://jalammar.github.io/images/bert-output-vector.png)
 
