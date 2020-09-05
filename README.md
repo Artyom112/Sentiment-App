@@ -14,3 +14,6 @@ if __name__=="__main__":
 
 **Архитектура BERT**:
 ![Image of Bert architecture](http://jalammar.github.io/images/bert-output-vector.png)
+
+**Демонстрация работы алшоритма:
+![](/Desktop/GIT/ezgif.com-video-to-gif.gif)
