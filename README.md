@@ -22,4 +22,4 @@ if __name__=="__main__":
 
 **Демонстрация работы алгоритма:**
 
-![](/images/gif_image.gif)
+![](/images/new_gif_image.gif)
