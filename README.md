@@ -7,7 +7,7 @@
 git clone https://github.com/Artyom112/Sentiment-App.git
 ```
 
-Важно. Необходимо скачать веса модели и поместить их в папку trained_model_params (оганичение github на выгрузку). Ссылка: https://yadi.sk/d/6TINrwNFZKRNyw
+Важно. Необходимо скачать веса модели и поместить их в папку trained_model_params (оганичение github на выгрузку). Ссылка: https://disk.yandex.ru/client/disk/bert_eng
 
 Перейдите в файл app.py и запустите:
 ```
